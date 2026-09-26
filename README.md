@@ -22,23 +22,23 @@ A processor, also known as the Central Processing Unit (CPU), is the electronic 
 -Processes Data 
 -Manages Traffic
 
-##Main things in RISC-V##
-**Registers 
+##Main things in RISC-V
+**Registers**
 Small, very fast storage locations inside the CPU.
 Example: x0, x1, x2, ... x31 in the basic 32-register set.
-**Instructions
+**Instructions**
 Commands that the CPU understands, such as:
 ADD → addition
 SUB → subtraction
 AND, OR → logical operations
 LW → load data from memory
 SW → store data in memory
-**Instruction formats
+**Instruction formats**
 Rules describing how an instruction is arranged, such as where the operation, registers, and immediate value are placed.
 Memory operations
 RISC-V uses load/store instructions to move data between memory and registers.
-Extensions
-**RISC-V can be extended with additional instruction sets. For example:
+**Extensions**
+RISC-V can be extended with additional instruction sets. For example:
 I → basic integer instructions
 M → multiplication/division
 A → atomic operations

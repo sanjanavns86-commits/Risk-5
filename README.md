@@ -22,7 +22,7 @@ A processor, also known as the Central Processing Unit (CPU), is the electronic 
 -Processes Data 
 -Manages Traffic
 
-##Main things in RISC-V
+## Main things in RISC-V-
 
 **Registers**
 
